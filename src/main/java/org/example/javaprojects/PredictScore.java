@@ -62,7 +62,7 @@ class Player
 
             for (int j = 1; j <= 2; j++)  // for 6 balls per over enter j<=6
             {
-                System.out.println("number of Over  : "+i+ "\t number of ball  : "+j);
+                System.out.println("number of Over  : ("+i+ ")\t number of ball  :( "+j);
 
                 // PLAYER1 PREDICTION
                 System.out.println("\n \nPlayer 1 : enter your prediction");
